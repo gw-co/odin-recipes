@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.content-container{
+    background-color: rgb(243, 243, 243);
+    margin: 16px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1{
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 300px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+ul{
+    background-color: rgb(83, 207, 143);
+    border-radius: 5px;
+    padding: 12px 32px;
+    margin-bottom: 0;
+}
+
+li{
+    background-color: rgba(184, 237, 190, 0.44);
+    margin: 8px;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+a{
+    color: rgb(29, 44, 45);
+}
